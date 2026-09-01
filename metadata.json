@@ -1,0 +1,6 @@
+{
+  "name": "Empório da Praia Mercado",
+  "description": "O mercado mais completo da Praia do Francês, Alagoas. Pães frescos, bebidas geladas, churrasco e delivery rápido na sua casa ou pousada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
